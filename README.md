@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sehvdi&show_icons=true&theme=radical&card_width=800)](https://github.com/sehvdi)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sehvdi&show_icons=true&theme=radical)](https://github.com/sehvdi)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sehvdi&layout=compact&theme=radical&card_width=445)](https://github.com/sehvdi)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sehvdi&layout=compact&theme=radical)](https://github.com/sehvdi)
 
 <!--
 **sehvdi/sehvdi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
